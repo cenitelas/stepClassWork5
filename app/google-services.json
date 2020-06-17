@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "697924936413",
+    "firebase_url": "https://stepclasswork5.firebaseio.com",
+    "project_id": "stepclasswork5",
+    "storage_bucket": "stepclasswork5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697924936413:android:eafb107c3a3653c562f134",
+        "android_client_info": {
+          "package_name": "kz.education.stepclasswork5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697924936413-1culusrvmq504sf6vqaur02bfiogapg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUt8nkhxkEeBkmQKchcfJol-XcHwHSauk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697924936413-1culusrvmq504sf6vqaur02bfiogapg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
